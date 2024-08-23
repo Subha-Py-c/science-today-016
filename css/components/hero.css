@@ -17,6 +17,7 @@
         @media (width < 500px) {
             font-size: 2rem;
             line-height: 2.25rem;
+            padding: 15px;
         }
 
         & .sp{
